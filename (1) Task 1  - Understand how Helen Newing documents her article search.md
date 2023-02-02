@@ -1,4 +1,4 @@
-#Assignment Part 1: Journal Entry 1 (of two)
+# Assignment Part 1: Journal Entry 1 (of two)
 
 Task 1:
 The literature search
