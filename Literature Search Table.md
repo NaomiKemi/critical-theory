@@ -7,4 +7,5 @@
 | Google books  | black communities and social media|Black software – Charlton D. McIlwain | Unsuccessful |
 | Google books  |black communities and social media |The black image in the white mind Robert M. Entman and Andrew Rojecki | Unsuccessful |
 | Google search | Black communities online | Content creators of color that inspire: Building black communities online | Successful |
+| Google Search | is there a space for black creators on social media | Taking On Tech: Social Media’s Anti-Blackness And Algorithmic Aggression In The Absence Of Accountability | Successful |
 
