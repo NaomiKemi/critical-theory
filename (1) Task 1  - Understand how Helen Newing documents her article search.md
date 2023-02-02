@@ -5,8 +5,8 @@
 * Develop a targeted strategy to find key publications quickly and efficiently and then expand from there, prioritizing and keeping records as you go.
 
 ## Information sources: libraries, databases, online search engines … and people
-Main sources of information are academic libraries and online sources 
-Most efficient way to being a literature search is online search engines 
+* Main sources of information are academic libraries and online sources 
+* Most efficient way to being a literature search is online search engines 
 
 ## Searching on keywords
 Identify key words and phrases that can be used as search terms (incl. concepts, geographical areas and so on)
