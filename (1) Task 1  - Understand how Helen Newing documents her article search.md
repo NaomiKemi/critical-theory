@@ -2,7 +2,7 @@
 
 ## Task 1:
 ## The literature search
-Develop a targeted strategy to find key publications quickly and efficiently and then expand from there, prioritizing and keeping records as you go.
+* Develop a targeted strategy to find key publications quickly and efficiently and then expand from there, prioritizing and keeping records as you go.
 
 ## Information sources: libraries, databases, online search engines … and people
 Main sources of information are academic libraries and online sources 
