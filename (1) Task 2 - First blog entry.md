@@ -1,6 +1,6 @@
 # Are social media platforms starting to drive out their black creators?
 
-## *Being an influencer seems like something easy to do* . But having a certain image or complexion can make it easier.
+### *Being an influencer seems like something easy to do* . But having a certain image or complexion can make it easier.
 
 You go on social media, and there are endless pictures of them enjoying exquisitely prepared dinners, floating on pink flamingos in beautiful blue pools, 
 and photographing massive hauls of luxury goods. With their big smiles and consistent Instagram lives documenting their lives, 
