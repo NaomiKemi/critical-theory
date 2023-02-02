@@ -1,4 +1,4 @@
-Crips and bloods
+# Crips and bloods
 
 I was awakened from my snooze by the vibrations of the spaceship landing in its docking position, 
 which caused the walls and flooring of the cabin to rattle. Phoenix, my partner, was busy inspecting the dashboard.
@@ -23,7 +23,7 @@ developed a mind device that writes out all our thoughts and ideas. We can’t w
 device speeds up processing time.
 
 Bloods have had spies pose as Crips to get all our plans; we’ve had to increase the security measures. They have 
-intercepted our stations, brainwashed some of our engineers, and drunk our fizzy POP. THIS WAS THE FINAL STRAW! 
+intercepted our stations, brainwashed some of our engineers, and **drunk our fizzy POP. THIS WAS THE FINAL STRAW!** 
 So, we need a device to tell the real from the fake, so for the crips that are visually impaired, we have been developing 
 glasses with different settings for differentiating their visual sight, as that was a problem that the norms couldn’t do.
 
