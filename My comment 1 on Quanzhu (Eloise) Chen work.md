@@ -1,4 +1,4 @@
-Comment 1: 
+# Comment 1: 
 
 Name of student who is being commented on:  Quanzhu (Eloise) Chen
 Name of article: Week 13.docx
