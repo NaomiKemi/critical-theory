@@ -5,7 +5,7 @@ Name of article: Week 13.docx
 Link to Eloise Week 13 blog: https://git.arts.ac.uk/22018321/Critical-Study-Weekly-Blog/blob/main/Week13.docx
 Link to my comment; https://git.arts.ac.uk/22018321/Critical-Study-Weekly-Blog/issues/1
 
-As I unable to attend the exhibit It was difficult for me to comprehend how the 
+As I was unable to attend the exhibit It was difficult for me to comprehend how the 
 exhibit was set up and what tales the artwork represented because I was unable to attend. 
 I was able to appreciate the significance of the curator's choice in the art works to 
 display after reading Eloise's blog entry from the perspective of a visitor. The phrase 
